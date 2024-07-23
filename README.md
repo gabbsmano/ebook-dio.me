@@ -20,3 +20,7 @@ ChatGPT：
 
 - Conteúdo gerado via ChatGPT
 - Imagens do acervo público geradas via Lexica.art
+
+## Artigo para vizualição
+
+- https://web.dio.me/articles/do-zero-ao-heroi-comecando-com-c?back=%2Farticles&page=1&order=oldest
